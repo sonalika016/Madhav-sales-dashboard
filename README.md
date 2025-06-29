@@ -45,5 +45,5 @@
 
     ✔️Optimize shipping times and customer satisfaction
 
-Dashboard: ![Dashboard Preview](https://github.com/sonalika016/Madhav-sales-dashboard/blob/main/Snapshot%20of%20Dashboard.png)
+Dashboard: ![Dashboard Preview](https://github.com/sonalika016/Madhav-sales-dashboard/blob/main/Dashboard%20Snapshot.png)
 
