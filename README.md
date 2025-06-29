@@ -7,8 +7,8 @@
 
 🔍 Project Objective
 
-    To analyze and visualize the sales trends, customer behavior, and product performance of an e-commerce business, highlighting 
-    actionable insights such as:
+    To analyze and visualize the sales trends, customer behavior, and product performance of an e-commerce business, 
+    highlighting actionable insights such as:
 
          ✅ Total and monthly sales trends
 
@@ -24,8 +24,8 @@
 
 🧾 Data Source
 
-    The dataset was taken from Kaggle, comprising sales transaction records including order dates, customer info, geographical data,
-    product categories, discounts, shipping details, and profit margins.
+    The dataset was taken from Kaggle, comprising sales transaction records including order dates, customer info, geographical
+    data, product categories, discounts, shipping details, and profit margins.
 
 🛠 Tools Used
 
